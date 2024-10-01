@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.exe
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.deps.json
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.runtimeconfig.json
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.runtimeconfig.dev.json
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.dll
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\ref\codechallenge.dll
+C:\Users\hp\Documents\codechallenge\bin\Debug\net5.0\codechallenge.pdb
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.AssemblyInfo.cs
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.dll
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\ref\codechallenge.dll
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.pdb
+C:\Users\hp\Documents\codechallenge\obj\Debug\net5.0\codechallenge.genruntimeconfig.cache
